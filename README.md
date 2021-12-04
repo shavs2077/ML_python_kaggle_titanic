@@ -4,5 +4,6 @@ Jupyter python notebook containing python code used to predict outcomes for Kagg
 
 ## Submission results
 | Submission  | Accuracy    |
-| ----------- | ----------- |
+| :---------: | :---------: |
 | 1           | 0.62679     |
+| 2           | 0.76794     |
